@@ -1,0 +1,2 @@
+These files should be placed in your cgi-bin outside of your public_html folder. 
+This will allow these python files to run.
